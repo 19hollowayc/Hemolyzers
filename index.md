@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## What are Hemolyzers?
 
-You can use the [editor on GitHub](https://github.com/19hollowayc/Hemolyzers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hemolyzers are lab machines that are used to anaylyze a patient's blood to check for numerous diseases.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How does it relate to our device?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our device allows an interface where doctors can check a patient's blood sample wirelessly wherever they are. Doctors are notified when there is an issue for example hypercoagulation. This will be able to save many COVID-19 patients'lives and make doctor's worklife balance better.
 
 ```markdown
 Syntax highlighted code block
